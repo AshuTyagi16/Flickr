@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Flickr</string>
+
+    <string name="image">Image</string>
+    <string name="please_enter_some_text">Please enter some text to search</string>
+    <string name="retry">Retry</string>
+    <string name="internet_error">Please check your internet connection</string>
 </resources>
